@@ -1,0 +1,102 @@
+2021/09/29 10:28:07.293 -- Sin estado inicial, arrancando estado inicial por defecto
+2021/09/29 10:28:50.116 -- comando set_sector B introducido
+2021/09/29 10:28:50.234 -- Procesando habilitar seccion: B
+2021/09/29 10:28:50.235 -- Sección B habilitada
+2021/09/29 11:07:46.806 -- comando abrir_valvula 2 introducido
+2021/09/29 11:07:46.873 -- Procesando abrir válvula: 2
+2021/09/29 11:07:46.873 -- Válvula 2 abierta
+2021/09/29 11:09:03.037 -- comando abrir_valvula 1 introducido
+2021/09/29 11:09:03.129 -- Procesando abrir válvula: 1
+2021/09/29 11:09:03.129 -- Válvula 1 abierta
+2021/09/29 12:05:01.101 -- Demasiadas válvulas abiertas
+2021/09/29 12:05:01.341 -- Demasiadas válvulas abiertas
+2021/09/29 12:06:12.966 -- Demasiadas válvulas abiertas
+2021/09/29 12:06:13.202 -- Demasiadas válvulas abiertas
+2021/09/29 12:06:53.407 -- Demasiadas válvulas abiertas
+2021/09/29 12:06:53.639 -- Demasiadas válvulas abiertas
+2021/09/29 12:14:30.697 -- Demasiadas válvulas abiertas
+2021/09/29 12:14:30.931 -- Demasiadas válvulas abiertas
+2021/09/29 12:14:40.842 -- comando cerrar_valvula 4 introducido
+2021/09/29 12:14:40.938 -- Procesando cerrar válvula: 4
+2021/09/29 12:14:40.939 -- Válvula 4 cerrada
+2021/09/29 12:17:21.077 -- Demasiadas válvulas abiertas
+2021/09/29 12:17:21.314 -- Demasiadas válvulas abiertas
+2021/09/29 12:17:31.570 -- comando cerrar_valvula 2 introducido
+2021/09/29 12:17:31.702 -- Procesando cerrar válvula: 2
+2021/09/29 12:17:31.702 -- Válvula 2 cerrada
+2021/09/29 13:22:16.942 -- Demasiadas válvulas abiertas
+2021/09/29 13:22:17.188 -- Demasiadas válvulas abiertas
+2021/09/29 13:22:38.767 -- comando cerrar_valvula 2 introducido
+2021/09/29 13:22:38.779 -- Procesando cerrar válvula: 2
+2021/09/29 13:22:38.780 -- Válvula 2 cerrada
+2021/09/29 13:22:44.979 -- Demasiadas válvulas abiertas
+2021/09/29 13:22:45.213 -- Demasiadas válvulas abiertas
+2021/09/29 13:23:06.946 -- comando cerrar_valvula 1 introducido
+2021/09/29 13:23:07.036 -- Procesando cerrar válvula: 1
+2021/09/29 13:23:07.037 -- Válvula 1 cerrada
+2021/09/29 13:23:14.742 -- Demasiadas válvulas abiertas
+2021/09/29 13:23:14.988 -- Demasiadas válvulas abiertas
+2021/09/29 13:24:33.162 -- Demasiadas válvulas abiertas
+2021/09/29 13:24:33.404 -- Demasiadas válvulas abiertas
+2021/09/29 13:24:43.107 -- Demasiadas válvulas abiertas
+2021/09/29 13:24:43.362 -- Demasiadas válvulas abiertas
+2021/09/29 13:25:43.446 -- Demasiadas válvulas abiertas
+2021/09/29 13:25:43.683 -- Demasiadas válvulas abiertas
+2021/09/29 13:27:02.930 -- comando llenar_deposito introducido
+2021/09/29 13:27:03.102 -- Procesando llenar depósito
+2021/09/29 13:27:03.103 -- Depósito lleno
+2021/09/29 13:27:30.268 -- Estado inicial no válido 2021/09/29 13:27:03.103 -- 16/B/false/false/false/false/false
+2021/09/29 13:27:30.372 -- Estado inicial no válido 2021/09/29 13:27:03.103 -- 16/B/false/false/false/false/false
+2021/09/29 13:44:21.436 -- comando terminar introducido
+2021/09/29 13:44:21.477 -- Apagando sistema
+2021/09/29 13:44:21.479 -- Depósito vacio
+2021/09/29 13:44:21.479 -- Finalizado apagado del sistema
+2021/09/29 14:19:50.628 -- comando terminar introducido
+2021/09/29 14:19:55.764 -- Apagando sistema
+2021/09/29 14:19:55.765 -- Depósito vacio
+2021/09/29 14:19:55.767 -- Finalizado apagado del sistema
+2021/09/29 14:21:17.142 -- Comando [cerrarValvula 3] no válido
+2021/09/29 14:21:33.815 -- comando cerrar_valvula 3 introducido
+2021/09/29 14:21:34.010 -- Procesando cerrar válvula: 3
+2021/09/29 14:21:34.011 -- Válvula 3 cerrada
+2021/09/29 14:22:58.108 -- comando terminar introducido
+2021/09/29 14:23:03.046 -- Apagando sistema
+2021/09/29 14:23:03.046 -- Depósito vacio
+2021/09/29 14:23:03.048 -- Finalizado apagado del sistema
+2021/09/29 14:23:35.857 -- comando terminar introducido
+2021/09/29 14:25:15.818 -- comando terminar introducido
+2021/09/29 14:33:37.704 -- comando terminar introducido
+2021/09/29 14:33:50.860 -- comando terminar introducido
+2021/09/29 14:33:52.508 -- Apagando sistema
+2021/09/29 14:33:52.509 -- Depósito vacio
+2021/09/29 14:33:52.510 -- Finalizado apagado del sistema
+2021/09/29 14:43:17.523 -- comando llenar_deposito introducido
+2021/09/29 14:43:17.579 -- Procesando llenar depósito
+2021/09/29 14:43:17.580 -- Depósito lleno
+2021/09/29 14:43:27.024 -- comando vaciar_deposito introducido
+2021/09/29 14:43:27.168 -- Procesando vaciar depósito
+2021/09/29 14:43:27.169 -- Depósito vacio
+2021/09/29 14:43:44.489 -- comando abrir_valvula 4 introducido
+2021/09/29 14:43:44.499 -- Procesando abrir válvula: 4
+2021/09/29 14:43:44.500 -- Válvula 4 abierta
+2021/09/29 14:43:49.048 -- comando terminar introducido
+2021/09/29 14:43:52.348 -- Apagando sistema
+2021/09/29 14:43:52.349 -- Válvula 4 cerrada
+2021/09/29 14:43:52.350 -- Depósito vacio
+2021/09/29 14:43:52.351 -- Finalizado apagado del sistema
+2021/09/30 11:02:26.142 -- comando terminar introducido
+2021/09/30 11:02:27.887 -- Apagando sistema
+2021/09/30 11:02:27.888 -- Depósito vacio
+2021/09/30 11:02:27.889 -- Finalizado apagado del sistema
+2021/09/30 11:03:59.205 -- comando terminar introducido
+2021/09/30 11:04:00.841 -- Apagando sistema
+2021/09/30 11:04:00.841 -- Depósito vacio
+2021/09/30 11:04:00.842 -- Finalizado apagado del sistema
+2021/11/11 13:05:48.810 -- comando terminar introducido
+2021/11/11 13:05:51.022 -- Apagando sistema
+2021/11/11 13:05:51.023 -- Depósito vacio
+2021/11/11 13:05:51.024 -- Finalizado apagado del sistema
+2021/11/11 13:07:03.863 -- comando terminar introducido
+2021/11/11 13:07:05.715 -- Apagando sistema
+2021/11/11 13:07:05.715 -- Depósito vacio
+2021/11/11 13:07:05.717 -- Finalizado apagado del sistema

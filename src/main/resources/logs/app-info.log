@@ -1,0 +1,10 @@
+[DEBUG] 2021-09-30 11:02:26.143 [AWT-EventQueue-0] GestionInterfaceUsuario - Comando terminar introducido
+[DEBUG] 2021-09-30 11:02:26.289 [Thread-0] Procesador - Comando 2021/09/30 11:02:26.141 -- terminar -- leido
+[DEBUG] 2021-09-30 11:02:27.886 [Thread-0] Procesador - Apagando Sistema
+[INFO ] 2021-09-30 11:02:27.889 [Thread-0] Estado - Deposito vacio
+[INFO ] 2021-09-30 11:02:27.890 [Thread-0] Estado - Finalizado apagado del sistema
+[DEBUG] 2021-09-30 11:03:59.206 [AWT-EventQueue-0] GestionInterfaceUsuario - Comando terminar introducido
+[DEBUG] 2021-09-30 11:03:59.271 [Thread-0] Procesador - Comando 2021/09/30 11:03:59.205 -- terminar -- leido
+[DEBUG] 2021-09-30 11:04:00.840 [Thread-0] Procesador - Apagando Sistema
+[INFO ] 2021-09-30 11:04:00.842 [Thread-0] Estado - Deposito vacio
+[INFO ] 2021-09-30 11:04:00.842 [Thread-0] Estado - Finalizado apagado del sistema

@@ -1,0 +1,28 @@
+
+[
+  {
+    "numeroValvula": 1,
+    "valvulaAbierta": "false",
+    "sector": "A"
+  },
+  {
+    "numeroValvula": 2,
+    "valvulaAbierta": "false",
+    "sector": "A"
+  },
+  {
+    "numeroValvula": 3,
+    "valvulaAbierta": "false",
+    "sector": "B"
+  },
+  {
+    "numeroValvula": 4,
+    "valvulaAbierta": "false",
+    "sector": "B"
+  },
+  {
+    "numeroValvula": 5,
+    "valvulaAbierta": "false",
+    "sector": "B"
+  }
+]
