@@ -1,4 +1,4 @@
-# Supesto 8, Aplicación de gestión de circuito hidráulico.
+# Aplicación de gestión de circuito hidráulico.
 
 Esta aplicación emula el control de un circuito hidráulico.
 
